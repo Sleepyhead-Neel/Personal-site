@@ -15,7 +15,7 @@ hr {
 h1 {
   color: #66bfbf;
   font-size: 5.125rem;
-  margin: 50px auto 0 auto;
+  margin: 10px auto 0 auto;
   font-family: "Sacramento", cursive;
 }
 h2 {
@@ -33,20 +33,20 @@ h3 {
 p {
   line-height: 2;
 }
-a{
+a {
   color: #11999e;
   font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
-a:hover{
+a:hover {
   color: #eaf6f6;
 }
 .contact-mgs {
   width: 40%;
   margin: 40px auto 60px auto;
 }
-.copyright{
+.copyright {
   color: #eaf6f6;
   font-size: 0.75rem;
   padding: 20px 0;
@@ -80,7 +80,7 @@ a:hover{
 }
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 230px;
 }
 .top-cloud {
   position: relative;
